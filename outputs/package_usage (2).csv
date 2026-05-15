@@ -1,0 +1,6 @@
+file_name,import_name,package_name,module_criticality
+app.py,flask,flask,5
+payments.py,requests,requests,5
+auth.py,requests,requests,5
+auth.py,yaml,pyyaml,5
+reports.py,jinja2,jinja2,3
