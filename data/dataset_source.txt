@@ -1,0 +1,16 @@
+Dataset used in this project:
+
+Kaggle Dataset:
+Open Source Cyber Debt: The Contagion Graph
+
+Kaggle identifier:
+kanchana1990/open-source-cyber-debt-the-contagion-graph
+
+Source basis:
+The dataset contains open-source vulnerability records derived from Google's OSV.dev database.
+
+Used for:
+Matching vulnerability records against the generated SBOM components in the proof-of-concept evaluation.
+
+Note:
+The full Kaggle dataset is not stored directly in this repository. The repository provides the source identifier and the generated outputs used in the paper.
