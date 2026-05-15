@@ -1,0 +1,7 @@
+kagglehub
+networkx
+packaging
+tabulate
+numpy
+pandas
+matplotlib
