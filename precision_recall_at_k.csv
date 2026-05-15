@@ -1,6 +1,0 @@
-K,OSV_Scanner_Precision,OSV_Scanner_Recall,Framework_Precision,Framework_Recall
-10,80.0,27.6,100.0,34.5
-20,40.0,27.6,100.0,69.0
-29,34.5,34.5,100.0,100.0
-30,36.7,37.9,96.7,100.0
-44,56.8,86.2,65.9,100.0
