@@ -1,8 +1,0 @@
-metric,value
-Total findings,107
-Traditional high-priority findings,0
-Risk-aware high-priority findings,0
-Reachable findings (score >= 6),12
-Low-reach findings (score < 6),95
-Direct dependency findings,48
-Transitive dependency findings,59
